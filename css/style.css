@@ -12,6 +12,13 @@ span{
     padding: 5px;
     border-radius: 5px;
 }
+footer{
+    background-color: #0077b6;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+footer a{color: #90e0ef;text-decoration: none;}
 #cabecera{
     background-color: darkslategrey;
     color: white;
