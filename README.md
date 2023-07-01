@@ -15,4 +15,4 @@ git clone https://github.com/hviveros/blog_notebooks.git
 ```
 
 
-Una herramienta útil para editar el archivo README.md, con su Markdown correspondiente es [Editor.md]( https://pandao.github.io/editor.md/en.html/ "Link a Editor.md")
+Una herramienta útil para editar el archivo README.md, con su Markdown correspondiente es [Editor.md]( https://pandao.github.io/editor.md/en.html "Link a Editor.md")
